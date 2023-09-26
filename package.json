@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@pinegrow/nuxt-module": "file:/Users/techakayy/Pinegrow/PinegrowCode/frameworks/vue-svelte-designer/packages/nuxt-module",
+    "@pinegrow/vite-plugin": "file:/Users/techakayy/Pinegrow/PinegrowCode/frameworks/vue-svelte-designer/packages/vite-plugin",
+    "nuxt": "^3.7.3"
+  }
+}
